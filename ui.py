@@ -1,8 +1,8 @@
 import streamlit as st
 import requests
 
-API_URL = "https://your-render-app.onrender.com/chat"
-ANALYTICS_URL = "https://your-render-app.onrender.com/analytics"
+API_URL = "https://ai-customer-support-system-5sd2.onrender.com/chat"
+ANALYTICS_URL = "https://ai-customer-support-system-5sd2.onrender.com/analytics"
 
 st.set_page_config(page_title="AI Customer Support", layout="wide")
 
