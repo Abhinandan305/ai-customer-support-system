@@ -104,3 +104,5 @@ if st.sidebar.button("📊 Show Analytics"):
         st.sidebar.metric("🔤 Tokens", data.get("total_tokens", 0))
     else:
         st.sidebar.error("Analytics unavailable")
+
+        
