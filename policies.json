@@ -1,0 +1,61 @@
+{
+  "billing": [
+    {
+      "title": "Billing Disputes",
+      "content": "Customers can raise billing disputes within 30 days of transaction. All refunds require verification of transaction ID and account ownership."
+    },
+    {
+      "title": "Subscription Charges",
+      "content": "Subscriptions are billed monthly or annually depending on the plan. Users must cancel at least 24 hours before renewal to avoid charges."
+    },
+    {
+      "title": "Late Payments",
+      "content": "Late payments may result in service suspension after 7 days. Reconnection is automatic after payment is completed."
+    }
+  ],
+
+  "tech": [
+    {
+      "title": "Technical Support",
+      "content": "Users should restart the application before reporting issues. Cache clearing and reinstall are recommended troubleshooting steps."
+    },
+    {
+      "title": "Service Downtime",
+      "content": "Planned maintenance is communicated 48 hours in advance. Unexpected outages are resolved within 4 hours on average."
+    },
+    {
+      "title": "Login Issues",
+      "content": "If login fails, users should reset password using registered email. Multiple failed attempts may temporarily lock accounts for security."
+    }
+  ],
+
+  "refund": [
+    {
+      "title": "Refund Eligibility",
+      "content": "Refunds are only available within 14 days of purchase if the service has not been significantly used."
+    },
+    {
+      "title": "Refund Processing Time",
+      "content": "Approved refunds are processed within 5–10 business days depending on payment provider."
+    },
+    {
+      "title": "Non-Refundable Cases",
+      "content": "Services that have been fully consumed or are under promotional discounts are non-refundable."
+    }
+  ],
+
+  "faq": [
+    {
+      "title": "General Support",
+      "content": "Customers can contact support 24/7 via chat or email. Response time is typically under 2 hours."
+    },
+    {
+      "title": "Account Management",
+      "content": "Users can update personal details from the account settings page. Email changes require verification."
+    },
+    {
+      "title": "Security",
+      "content": "We use encryption for all user data and do not store sensitive payment information on our servers."
+    }
+  ]
+}
