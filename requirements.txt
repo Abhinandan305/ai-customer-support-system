@@ -5,3 +5,8 @@ pandas
 requests
 python-dotenv
 groq==1.5.0
+sentence-transformers
+faiss-cpu
+scikit-learn
+numpy
+requests
