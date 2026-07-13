@@ -1,3 +1,5 @@
+print("APP STARTING")
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 import time
@@ -6,8 +8,7 @@ from router import classify_intent
 from agents import billing_agent, tech_agent, refund_agent, faq_agent
 from llm import llm_generate
 
-from semantic_cache import SemanticCache
-from metrics import Metrics
+print("IMPORTS COMPLETE")
 
 # --------------------
 # App Init
